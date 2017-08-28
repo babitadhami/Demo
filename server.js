@@ -2,9 +2,9 @@ var mysql=require('mysql');
 var connection=mysql.createConnection({
  
 host:'localhost',
- user:'root',
- password:'wipro@123',
- database:'Simplivity'
+ user:'username',
+ password:'password',
+ database:'db'
  
 });
 
